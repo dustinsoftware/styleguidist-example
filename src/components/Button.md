@@ -2,7 +2,7 @@ Basic button:
 
 ```jsx
 import Demo from './demo1/component.js';
-import Demo2 from './demo1/component.js';
+import Demo2 from './demo2/component.js';
 
 <Button><Demo /><Demo2 /></Button>
 ```
