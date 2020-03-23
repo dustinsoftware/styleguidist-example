@@ -1,7 +1,10 @@
 Basic button:
 
 ```jsx
-<Button>Push Me</Button>
+import Demo from './demo1/component.js';
+import Demo2 from './demo1/component.js';
+
+<Button><Demo /><Demo2 /></Button>
 ```
 
 Big pink button:
